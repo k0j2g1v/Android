@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="button1">LinearLayout Example</string>
+    <string name="button2">Chatting Activity Example</string>
+    <string name="button3">Image처리 Activity Example</string>
+    <string name="button4">Touch Event Toast Example</string>
+    <string name="button5">Touch Event Swap Example</string>
+    <string name="toastMsg">Activity Touch!!</string>
+</resources>
